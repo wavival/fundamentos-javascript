@@ -1,7 +1,7 @@
 {
   "name": "fundamentos-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Notas de estudio de JavaScript en español: del lenguaje base a Node.js, testing y seguridad.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/wavival/fundamentos-javascript.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "aprendizaje",
+    "español",
+    "fundamentos"
+  ],
+  "author": "Valentina Ramírez",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wavival/fundamentos-javascript/issues"
   },
