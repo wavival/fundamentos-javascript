@@ -32,23 +32,23 @@ El repositorio está en construcción. Las lecciones se publican a medida que es
 
 Estado: **Completo**, **En progreso** o **Pendiente**.
 
-- [01. Fundamentos](contenido/01-fundamentos/): Pendiente
-- [02. Control de flujo](contenido/02-control-de-flujo/): Pendiente
-- [03. Funciones](contenido/03-funciones/): Pendiente
-- [04. Estructuras de datos](contenido/04-estructuras-de-datos/): Pendiente
-- [05. Scope y memoria](contenido/05-scope-y-memoria/): Pendiente
-- [06. Programación funcional](contenido/06-programacion-funcional/): Pendiente
-- [07. Asincronismo](contenido/07-asincronismo/): Pendiente
-- [08. DOM y browser](contenido/08-dom-y-browser/): Pendiente
-- [09. Orientación a objetos](contenido/09-orientacion-a-objetos/): Pendiente
-- [10. Módulos y ecosistema](contenido/10-modulos-y-ecosistema/): Pendiente
-- [11. JavaScript moderno](contenido/11-javascript-moderno/): Pendiente
-- [12. Browser APIs](contenido/12-browser-apis/): Pendiente
-- [13. Node.js](contenido/13-nodejs/): Pendiente
-- [14. Testing](contenido/14-testing/): Pendiente
-- [15. Patrones y arquitectura](contenido/15-patrones-y-arquitectura/): Pendiente
-- [16. Rendimiento](contenido/16-rendimiento/): Pendiente
-- [17. Seguridad](contenido/17-seguridad/): Pendiente
+- [01. Fundamentos](contenido/01-fundamentos/): En progreso (ejercicios publicados, lecciones pendientes)
+- 02. Control de flujo: Pendiente
+- 03. Funciones: Pendiente
+- 04. Estructuras de datos: Pendiente
+- 05. Scope y memoria: Pendiente
+- 06. Programación funcional: Pendiente
+- 07. Asincronismo: Pendiente
+- 08. DOM y browser: Pendiente
+- 09. Orientación a objetos: Pendiente
+- 10. Módulos y ecosistema: Pendiente
+- 11. JavaScript moderno: Pendiente
+- 12. Browser APIs: Pendiente
+- 13. Node.js: Pendiente
+- 14. Testing: Pendiente
+- 15. Patrones y arquitectura: Pendiente
+- 16. Rendimiento: Pendiente
+- 17. Seguridad: Pendiente
 
 ## Proyectos
 
@@ -63,7 +63,7 @@ Estado: **Completo**, **En progreso** o **Pendiente**.
 
 ## Cómo usar este repositorio
 
-Sigue los módulos en orden numérico. Cada módulo reúne sus lecciones y su práctica dentro de `contenido/NN-modulo/`.
+Sigue los módulos en orden numérico. Cada módulo reúne sus lecciones y su práctica dentro de `contenido/NN-modulo/`. Los módulos pendientes todavía no tienen carpeta.
 
 ## Requisitos
 
